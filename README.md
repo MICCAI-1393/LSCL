@@ -52,9 +52,9 @@ pip install -r requirements.txt
 
 ## Results
 
-We compared the results with the top three teams (P1,P2,P3) in the M&Ms challenge.(#R is ranking)
+We compared the results with the top three teams (P1,P2,P3) in the M&Ms challenge.
 
-We adopted the same evaluation criteria and ranking method as the M&Ms challenge performs and standardizes (https://www.ub.edu/mnms/).
+We adopted the same evaluation criteria and ranking method as the M&Ms challenge performs and standardizes (https://www.ub.edu/mnms/).  **#R** is ranking. **weighted_dice** and **weighted_hdb**  are weighted average metric for the four vendor. **training_time** and **test_time** are provided by the authorities in  M&Ms challenge.
 
 | Method | weighted_dice | #R   | weighted_hdb | #R   | training_time | #R   | test_time |  #R  |
 | :----: | :-----------: | ---- | :----------: | ---- | :-----------: | ---- | :-------: | :--: |
