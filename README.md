@@ -73,7 +73,7 @@ CUDA_VISIBLE_DEVICES=<gpu_id> python seg_test.py
 
 ### Pretrained models
 
-- Pretrained models can be found in the `./Download.txt`
+- [Pretrained models](https://1drv.ms/u/s!ApAhBkoHHwNVarScXIWPpNxOpUc?e=dHggB1) can be found in the `./Download.txt`
 
 ![image-20210519180231471](http://m.qpic.cn/psc?/V12kySKV4IhBFe/45NBuzDIW489QBoVep5mcW1w8w5easkTqE0vkKR424eLmnrapIARumcPvNOR1rzYYNx1QHFzAmMxoa.6qVpHcPryDXL1HEjEfjJCgohzipI!/b&bo=DwOtAAAAAAADF5M!&rf=viewer_4)
 
