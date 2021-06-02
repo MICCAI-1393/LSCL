@@ -42,6 +42,35 @@ pip install -r requirements.txt
 
 
 
+### Train
+
+```bash
+CUDA_VISIBLE_DEVICES=<gpu_id> python adv_seg_train.py
+```
+
+
+
+### Test
+
+```bash
+CUDA_VISIBLE_DEVICES=<gpu_id> python seg_test.py
+```
+
+
+
+### Arguments
+
+- `--train_img_dir`: FOLDER-PATH-TO-TRAIN-IMAGES
+- `--train_lab_dir`: FOLDER-PATH-TO-TRAIN-SEGMENT-LABEL-IMAGES
+- `--log`: FOLDER-PATH-TO-LOG
+- `--model_save_dir`: FOLDER-PATH-TO-SAVE-MODEL
+- `--image_size`: output image size
+- `--batch_size`: batch size of training and testing
+- `--epochs`: epochs of training and testing
+- `--lr`: learning rate of training
+
+
+
 ### Pretrained models
 
 - Pretrained models can be found in the `./Download.txt`
