@@ -1,3 +1,4 @@
 download link:
-
 https://1drv.ms/u/s!ApAhBkoHHwNVarScXIWPpNxOpUc?e=dHggB1
+
+Including wct2weights (the weights of WaveCT-AIN) and other pretrained model.
